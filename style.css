@@ -7,6 +7,9 @@
   list-style: none;
   text-decoration: none;
 }
+body {
+    font-family: "Work Sans", sans-serif;
+  }
 /* <!-- ------------------------header section st------------->  */
 
 #header {
